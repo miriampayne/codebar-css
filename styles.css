@@ -1,0 +1,27 @@
+body {
+  font-family: montserrat;
+  margin:0;
+}
+.taskbar {
+  text-align: right;
+}
+.navlink {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 10px;
+}
+.landing {
+  position: relative;
+  height: 100vh;
+  background-size:cover;
+  background-position: center center;
+  color: white;
+  background-image: linear-gradient(-225deg,rgba(255,250,250,0.3),rgba(0,0,0,0.3)), url('https://media.wired.com/photos/59268c5dcfe0d93c474309a2/master/w_2000,c_limit/BSP_054.jpg');
+}
+.title {
+  position: absolute;
+  width:100%;
+  text-align: center;
+  bottom: 80px;
+}
